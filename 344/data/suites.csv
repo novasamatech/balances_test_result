@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Mon Oct 14 00:29:28 GMT 2024","Mon Oct 14 00:29:29 GMT 2024","65","","io.novafoundation.nova.balances.BalancesIntegrationTest","","io.novafoundation.nova.balances.BalancesIntegrationTest","initializationError","initializationError",""
