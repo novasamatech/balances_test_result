@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","32275","testBalancesLoading[Shiden]","","Sun Jan 19 08:22:05 GMT 2025","passed","Sun Jan 19 08:22:37 GMT 2025","","io.novafoundation.nova.balances.BalancesIntegrationTest","io.novafoundation.nova.balances.BalancesIntegrationTest","testBalancesLoading[Shiden]"
