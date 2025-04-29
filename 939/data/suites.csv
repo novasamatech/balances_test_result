@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","68","initializationError","","Tue Apr 29 16:38:45 GMT 2025","broken","Tue Apr 29 16:38:45 GMT 2025","","io.novafoundation.nova.balances.BalancesIntegrationTest","io.novafoundation.nova.balances.BalancesIntegrationTest","initializationError"
